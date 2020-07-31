@@ -167,3 +167,96 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 10:50:41.565
 !MESSAGE executing callback sts4.classpath.iTgzpfnk SUCCESS [終了しました]
+
+!ENTRY org.eclipse.ui 2 2 2020-07-31 11:05:39.816
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:15.263
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iTgzpfnk
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:15.263
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.iTgzpfnk
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:15.264
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:15.264
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iTgzpfnk => OK
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.265
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.266
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.268
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.269
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.269
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.274
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.275
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.276
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:15.309
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:15.310
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@495662bc[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=1012)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:15.310
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.502
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-31 11:06:15.502
+!MESSAGE リソース '/Java_practice/src/chapter1/lesson1_1.java' が存在しません。
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.470
+!MESSAGE Boot LS startup time from start to initialized: 1159ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.490
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.PkXojNUDisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.490
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.491
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.491
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.491
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.492
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.497
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.497
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.PkXojNUD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.498
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.502
+!MESSAGE buffering callback sts4.classpath.PkXojNUD Java_practice false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.502
+!MESSAGE executing callback sts4.classpath.PkXojNUD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-31 11:06:16.515
+!MESSAGE executing callback sts4.classpath.PkXojNUD SUCCESS [終了しました]

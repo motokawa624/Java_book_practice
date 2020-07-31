@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;chapter1.lesson1_1&apos; を &apos;list1_1&apos; に名前変更します&#x0A;- 元のプロジェクト: &apos;Java_practice&apos;&#x0A;- オリジナル要素: &apos;chapter1.lesson1_1&apos;&#x0A;- 名前変更済み要素: &apos;chapter1.list1_1&apos;&#x0A;- リファクタリングされた要素の参照を更新&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;lesson1_1&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;chapter1{lesson1_1.java[lesson1_1" matchStrategy="1" name="list1_1" qualified="false" references="true" similarDeclarations="false" stamp="1596161175212" textual="false" version="1.0"/>
+</session>
